@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 
 // Import routes
-import { Home } from "./routes/Home";
+import Home from "./routes/Home";
 // import { About } from "./routes/About";
 import { HeroDetails } from "./routes/HeroDetails";
 
